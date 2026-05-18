@@ -1,4 +1,4 @@
 SELECT
     (3*9)
 AS
-    TEST
+    Tabla_multi
